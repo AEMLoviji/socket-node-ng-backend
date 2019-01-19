@@ -2,8 +2,8 @@
     "name": "socket-node-ng-backend",
     "description": "my first socket.io app",
     "website": "https://github.com/AEMLoviji/socket-node-ng-backend",
-    "repository": "https://github.com/AEMLoviji/socket-node-ng-backend.git",
-    "logo": "https://node-js-sample.herokuapp.com/node.svg",
+    "repository": "https://github.com/AEMLoviji/socket-node-ng-backend",
+    "logo": "https://socket-node-ng-backend.herokuapp.com/node.svg",
     "success_url": "/",
     "keywords": [
       "node",
