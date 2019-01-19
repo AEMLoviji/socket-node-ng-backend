@@ -1,0 +1,20 @@
+{
+    "name": "socket-node-ng-backend",
+    "description": "my first socket.io app",
+    "website": "https://github.com/AEMLoviji/socket-node-ng-backend",
+    "repository": "https://github.com/AEMLoviji/socket-node-ng-backend.git",
+    "logo": "https://node-js-sample.herokuapp.com/node.svg",
+    "success_url": "/",
+    "keywords": [
+      "node",
+      "express",
+      "socket.io"
+    ],
+    "scripts": {
+    },
+    "addons": [
+    ],
+    "env": {
+      "BUILDPACK_URL": "https://github.com/heroku/heroku-buildpack-nodejs"
+    }
+  }
